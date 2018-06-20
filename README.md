@@ -1,0 +1,1 @@
+# CentOS-Template-For-VMware-vCenter
